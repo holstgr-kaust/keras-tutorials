@@ -1,0 +1,2 @@
+datasets/cifar10/cifar-10.npz filter=lfs diff=lfs merge=lfs -text
+datasets/cifar10/cifar-10-batches-py.tar.gz filter=lfs diff=lfs merge=lfs -text
