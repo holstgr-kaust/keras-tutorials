@@ -48,6 +48,7 @@ target/
 .env
 .venv
 env/
+binder-env/
 venv/
 ENV/
 env.bak/
