@@ -25,7 +25,7 @@ Launch this tutorial in the cloud using [Google Colab](https://colab.research.go
 
 Alternatively, launch this tutorial in the cloud using [Binder](https://mybinder.org/) by clicking the buttons below:
 
-**Note:** Binder does not provide GPU resources (at present).  It is viable for exploring the datasets and models prior to training, but expect very long training times.
+**Note:** Binder does not provide GPU resources (at present).  It can be used to explore the datasets and pre-trained models, but expect very long training times.
 
 * Tutorial: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kaust-vislab/keras-tutorials/master?filepath=notebooks%2Fkeras-transfer-learning-tutorial.ipynb)
 * Exercise: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kaust-vislab/keras-tutorials/master?filepath=notebooks%2Fkeras-mnist-kaggle-exercise.ipynb)
