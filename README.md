@@ -33,7 +33,7 @@ Alternatively, launch this tutorial in the cloud using [Binder](https://mybinder
 
 ### Launch Locally
 
-To work locally on your own laptop or workstation, use the [Conda](https://docs.conda.io/en/latest/miniconda.html) package managment system to create a work environment with the required software. After installing miniconda (above), follow these steps to setup the work environment and run the 
+To work locally on your own laptop or workstation, use the [Conda](https://docs.conda.io/en/latest/miniconda.html) package managment system to create a work environment with the required software. After installing miniconda (above), follow these steps to setup the work environment and run the tutorial:
 
 Create the environment...
 
@@ -54,19 +54,3 @@ jupyter notebook notebooks/keras-transfer-learning-tutorial.ipynb
 ```
 
 
-## Speaker Bios
-
-Glendon Holst is a Staff Scientist in the Visualization Core Lab at KAUST (King Abdullah University of Science and Technology) specializing in HPC workflow solutions for deep learning, image processing, and scientific visualization.
-
-Mohsin Ahmed Shaikh is a Computational Scientist in the Supercomputing Core Lab at KAUST (King Abdullah University of Science and Technology) specializing in large scale HPC applications and GPGPU support for users on Ibex (cluster) and Shaheen (supercomputer).  Mohsin holds a PhD in Computational Bioengineering, and a Post Doc, from University of Canterbury, New Zealand.
-
-
-## References
-
-* https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/
-* https://www.cs.toronto.edu/~kriz/cifar.html
-* http://yann.lecun.com/exdb/mnist/index.html
-* https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751
-   https://towardsdatascience.com/keras-transfer-learning-for-beginners-6c9b8b7143e
-* https://arxiv.org/abs/1409.1556
-* https://www.kaggle.com/c/digit-recognizer
